@@ -1,0 +1,9 @@
+Debug/
+*.env
+*.opt
+Makefile
+Resource.asm
+Resource.h
+Resource.inc
+*.bdy
+*.lik
